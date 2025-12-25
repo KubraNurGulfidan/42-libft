@@ -1,4 +1,4 @@
-### Libft
+# Libft
 
 ## Proje Hakkında (TR)
 Bu proje, 42 eğitim programı kapsamında C standart kütüphanesindeki (libc) fonksiyonları en baştan yazarak kendi kütüphanemi oluşturduğum projedir. Projenin amacı, veri yapılarını, bellek yönetimini ve C dilinin temel mantığını en alt seviyede kavramaktır.
