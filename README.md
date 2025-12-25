@@ -9,12 +9,12 @@ Bu proje, 42 eğitim programı kapsamında C standart kütüphanesindeki (libc) 
 - **Bonus (Bağlı Listeler):** Linked list yönetimi için ft_lstnew, ft_lstadd_back, ft_lstmap fonksiyonlar.
 
 ## Kullanım
-1.  Kütüphaneyi derlemek ve `libft.a` dosyasını oluşturmak için:
-  ```bash
-  make
+1. Kütüphaneyi derlemek ve `libft.a` dosyasını oluşturmak için:
+   ```bash
+   make
 2. Bonus fonksiyonları dahil etmek için:
-  ```bash
-  make bonus
+   ```bash
+   make bonus
 
 ## About the Project (EN)
 This project is the foundational project of 42 school, where I re-implemented standard C library (libc) functions to create my own library. The goal is to understand data structures, memory management, and the core logic of C at a low level.
@@ -26,8 +26,8 @@ This project is the foundational project of 42 school, where I re-implemented st
 
 ## Usage
 1. To compile the library and generate the libft.a file:
-  ```bash
-  make
+   ```bash
+   make
 2. To include bonus functions:
-  ```bash
-  make bonus
+   ```bash
+   make bonus
